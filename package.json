@@ -1,0 +1,32 @@
+{
+  "name": "sql2mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon --exec babel-node --presets env,stage-2 src/app-test.js",
+    "dev": "nodemon --exec babel-node src/app.js"
+  },
+  "keywords": [],
+  "author": "lindahtv",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-rc.1",
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/node": "^7.0.0-rc.1",
+    "@babel/preset-env": "^7.0.0-rc.1",
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "chalk": "^2.4.2",
+    "dotenv": "^6.1.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.19",
+    "mssql": "^4.3.2",
+    "nodemon": "^1.18.11",
+    "yarn": "^1.15.2"
+  }
+}

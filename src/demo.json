@@ -1,0 +1,2649 @@
+/* 1 */
+{
+    "_id" : ObjectId("5fb37b6a909589f888eaaee3"),
+    "receivedAt" : ISODate("2020-10-14T04:35:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.278Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 18.48,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.278Z")
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5fb37b6a909589f888eaaee6"),
+    "receivedAt" : ISODate("2020-10-14T04:40:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.378Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.06,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.378Z")
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5fb37b6a909589f888eaaeec"),
+    "receivedAt" : ISODate("2020-10-14T04:45:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.493Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.21,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.493Z")
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5fb37b6a909589f888eaaef3"),
+    "receivedAt" : ISODate("2020-10-14T04:55:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.627Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.56,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.627Z")
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaefa"),
+    "receivedAt" : ISODate("2020-10-14T05:00:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.726Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.61,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.726Z")
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf01"),
+    "receivedAt" : ISODate("2020-10-14T05:05:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.826Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.52,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.826Z")
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf08"),
+    "receivedAt" : ISODate("2020-10-14T05:10:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:36.927Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.34,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:36.927Z")
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf0c"),
+    "receivedAt" : ISODate("2020-10-14T05:15:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:36:37.026Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 10.63,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:36:37.026Z")
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf13"),
+    "receivedAt" : ISODate("2020-10-14T05:20:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:01.774Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.1,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:01.774Z")
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf1a"),
+    "receivedAt" : ISODate("2020-10-14T05:25:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:01.871Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.69,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:01.871Z")
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf22"),
+    "receivedAt" : ISODate("2020-10-14T05:30:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.008Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.28,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.008Z")
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf2a"),
+    "receivedAt" : ISODate("2020-10-14T05:35:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.126Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.42,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.126Z")
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5fb37b6b909589f888eaaf2f"),
+    "receivedAt" : ISODate("2020-10-14T05:40:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.225Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 15.09,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.225Z")
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf36"),
+    "receivedAt" : ISODate("2020-10-14T05:45:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.326Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.64,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.326Z")
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf3b"),
+    "receivedAt" : ISODate("2020-10-14T05:50:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.427Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 16.96,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.427Z")
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf3f"),
+    "receivedAt" : ISODate("2020-10-14T05:55:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.527Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.34,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.527Z")
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf45"),
+    "receivedAt" : ISODate("2020-10-14T06:00:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.627Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 7.68,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.627Z")
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf74"),
+    "receivedAt" : ISODate("2020-10-14T06:05:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.728Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 14.15,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.728Z")
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf82"),
+    "receivedAt" : ISODate("2020-10-14T06:10:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.829Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 7.72,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 2,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.829Z")
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf8b"),
+    "receivedAt" : ISODate("2020-10-14T06:15:05.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:02.969Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 0,
+            "statusDevice" : 1,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 10.54,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 89.7,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : -785.3,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.4,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:02.969Z")
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaaf9d"),
+    "receivedAt" : ISODate("2020-10-14T06:20:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.084Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 292.83,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 430.22,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 20.16,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.4,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 94.1,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : -785.3,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 1.2,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.084Z")
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaafa7"),
+    "receivedAt" : ISODate("2020-10-14T06:25:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.186Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 324.69,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 469.83,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 24.35,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 7.98,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 96.2,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 428.6,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.9,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.186Z")
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5fb37b6c909589f888eaafad"),
+    "receivedAt" : ISODate("2020-10-14T06:30:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.353Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 47.97,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 101.93,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 14.16,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 20.18,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 52.2,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.353Z")
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafb8"),
+    "receivedAt" : ISODate("2020-10-14T06:35:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.409Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 197.41,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 204.47,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 17.41,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 10.9,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 89.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.2,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.409Z")
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafbe"),
+    "receivedAt" : ISODate("2020-10-14T06:40:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.494Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 316.28,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 397.62,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 15.36,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.26,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 92.6,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.5,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.494Z")
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafc6"),
+    "receivedAt" : ISODate("2020-10-14T06:45:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.593Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 322.36,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 391.79,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 17.22,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.73,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 93.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.593Z")
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafcd"),
+    "receivedAt" : ISODate("2020-10-14T06:50:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.693Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 333.2,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 405.79,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 17.47,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.3,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 94,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.9,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.693Z")
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafd3"),
+    "receivedAt" : ISODate("2020-10-14T06:55:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.793Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 116.01,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 194.74,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 9.84,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 19.09,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 65.4,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 423.7,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.793Z")
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eaafe3"),
+    "receivedAt" : ISODate("2020-10-14T07:00:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:03.893Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 309.28,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 406.68,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 19.07,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.27,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 92.7,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:03.893Z")
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eab063"),
+    "receivedAt" : ISODate("2020-10-14T07:05:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.067Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 328.53,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 411.32,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 18.47,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.16,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 90.6,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.5,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.067Z")
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eab13d"),
+    "receivedAt" : ISODate("2020-10-14T07:10:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.147Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 19.19,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 22.32,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 9.59,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 20.72,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 56.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 376.8,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.6,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.147Z")
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5fb37b6d909589f888eab1f7"),
+    "receivedAt" : ISODate("2020-10-14T07:15:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.248Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 322.17,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 425.97,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 19.23,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.66,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 91.6,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.3,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.248Z")
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab32f"),
+    "receivedAt" : ISODate("2020-10-14T07:20:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.349Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 27.51,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 26.29,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 8.28,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 17.98,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 63.4,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.349Z")
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab3c4"),
+    "receivedAt" : ISODate("2020-10-14T07:25:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.449Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 347.03,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 419.82,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 13.76,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.83,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 91.4,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.449Z")
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab43a"),
+    "receivedAt" : ISODate("2020-10-14T07:30:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.550Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 76.76,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 97.91,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 65.55,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 17.67,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 84,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.5,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.550Z")
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab4fa"),
+    "receivedAt" : ISODate("2020-10-14T07:35:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.650Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 342.26,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 399.91,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 10.89,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.9,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 92.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.6,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.650Z")
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab5a5"),
+    "receivedAt" : ISODate("2020-10-14T07:40:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.751Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 27.6,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 40.44,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 7.68,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 20.85,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 84.1,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : -0.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.751Z")
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab62f"),
+    "receivedAt" : ISODate("2020-10-14T07:45:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.850Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 10.96,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 3.43,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 20.84,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 93.1,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.850Z")
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab6d1"),
+    "receivedAt" : ISODate("2020-10-14T07:50:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:04.985Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 130.49,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 183.39,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 10.13,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 14.96,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 74.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 732.3,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 2.5,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:04.985Z")
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab761"),
+    "receivedAt" : ISODate("2020-10-14T07:55:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.104Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 289.09,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 388.4,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 15.94,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.87,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 92.8,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 898.8,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.104Z")
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab7f7"),
+    "receivedAt" : ISODate("2020-10-14T08:00:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.222Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 135.35,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 228.6,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 9.75,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 14.15,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 85,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 882.4,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.7,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.222Z")
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5fb37b6e909589f888eab89c"),
+    "receivedAt" : ISODate("2020-10-14T08:05:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.323Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 283.76,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 379.56,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 23.84,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 10.03,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 93.1,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 878.2,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.6,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.323Z")
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eab91d"),
+    "receivedAt" : ISODate("2020-10-14T08:10:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.422Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 163.76,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 259.09,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 10.78,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 14.53,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 74.4,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 432.2,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0.9,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.422Z")
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eab9c2"),
+    "receivedAt" : ISODate("2020-10-14T08:15:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.522Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 288.06,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 391.03,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 21.03,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.66,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 93.2,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 809.3,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.522Z")
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eaba61"),
+    "receivedAt" : ISODate("2020-10-14T08:20:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.622Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 308.43,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 399.02,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 19.83,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 9.51,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 94.2,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 811.3,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.622Z")
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eabb1e"),
+    "receivedAt" : ISODate("2020-10-14T08:25:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.722Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 193.3,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 246.84,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 12.86,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 10.34,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 89.7,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 821.5,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 3.1,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.722Z")
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eabbd6"),
+    "receivedAt" : ISODate("2020-10-14T08:30:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.825Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 321.98,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 433.4,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 20.38,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.75,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 94.1,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 781.2,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 2.8,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.825Z")
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eabc62"),
+    "receivedAt" : ISODate("2020-10-14T08:35:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:05.924Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 46.1,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 63.19,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 16.83,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 17.66,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 71.3,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 710.1,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 2.4,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:05.924Z")
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eabcfe"),
+    "receivedAt" : ISODate("2020-10-14T08:40:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:06.094Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 304.6,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 405.78,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 17,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 8.6,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 93.6,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 736.9,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 2.5,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:06.094Z")
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5fb37b6f909589f888eabd92"),
+    "receivedAt" : ISODate("2020-10-14T08:45:00.000Z"),
+    "__v" : 0,
+    "createdAt" : ISODate("2020-11-20T07:35:06.158Z"),
+    "measuringLogs" : {
+        "NOx" : {
+            "key" : "NOx",
+            "value" : 237.5,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "SO2" : {
+            "key" : "SO2",
+            "value" : 358.77,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "CO" : {
+            "key" : "CO",
+            "value" : 8.6,
+            "statusDevice" : 0,
+            "unit" : "mg/Nm3"
+        },
+        "O2" : {
+            "key" : "O2",
+            "value" : 13.74,
+            "statusDevice" : 0,
+            "unit" : "%"
+        },
+        "Temp" : {
+            "key" : "Temp",
+            "value" : 80.5,
+            "statusDevice" : 0,
+            "unit" : "oC"
+        },
+        "FLOW" : {
+            "key" : "FLOW",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "m3/h"
+        },
+        "Press" : {
+            "key" : "Press",
+            "value" : 0,
+            "statusDevice" : 0,
+            "unit" : "dB"
+        }
+    },
+    "updatedAt" : ISODate("2020-11-20T07:35:06.158Z")
+}
