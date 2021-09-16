@@ -13,7 +13,6 @@ import config from './config';
 import * as _ from 'lodash'
 import repairData, { transferDataMongoDB } from './repair-data'
 
-
 // connect DB
 manageConnectDatabase()
 
@@ -29,38 +28,19 @@ async function main() {
     // readStation()
 
     // 3. Chuyển dữ liệu từ sql server sáng mongoDB
-    const key = 'NTKCNHoaKhanh'
+    const key = 'Formosa_Nhiet_dien_lo_khi_so_1'
     const keys = [
       // key
-      'CtySoiTheKyMoi'
-      // 'NT_NMXLNTHoTay'
-      // 'NT_NMXLNTKimLien'
-      // 'NT_NMXLNTTrucBach'
-      // 'NT_NMXLNTYenSo',
-      // 'NT_MinhDuc'
-      // 'NT_Urenco'
-      // 'NT_KCNThangLong'
-      // 'NT_MeiKoThachThat'
-      // 'NT_VinNuocNgam_BBOI'
-      // 'NT_VinNuocNgam_TCAT'
-      // 'NT_VinNuocNgam_HUDU'
-      // 'NT_VinNuocNgam_NGQU'
-      // 'KK_CCBVMT'
-      // 'KK_HangDau'
-      // 'KK_HoanKiem'
-
-      // 'CONGTONMPM1',
-      // 'CONGTONMPM2_1',
-      // 'CONGTONMPM4',
-      // 'CONGTONMPM_21MR',
-
-      // 'NUOCTHAINMPM1',
-      // 'NUOCTHAINMPM2_1',
-      // 'NUOCTHAINMPM2_1MR',
-      // 'NUOCTHAINMPM4',
-      // 'TRAMXA',
+      /*
+      KT_CanNong1,
+      KT_CanNong2,
+      KT_CanNong3,
+      KT_CanNong4,
+      KT_CanPhucHop,
+      Formosa_Nhiet_dien_lo_khi_so_1
+      */
     ]
-    transferData(key)
+    // transferData(key)
 
     // repairData()
     // transferDataMongoDB(key)

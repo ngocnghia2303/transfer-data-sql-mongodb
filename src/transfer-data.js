@@ -17,9 +17,7 @@ qStation.on('task_failed', function (taskId, err, stats) {
   console.log('task_failed station: ', taskId, err.message)
 })
 const q = createQueue()
-// q.on('task_finish', function (taskId, result, stats) {
-//   console.log('task_finish ===>>>>  ', taskId, result)
-// })
+
 q.on('task_failed', function (taskId, err, stats) {
   console.log('task_failed: ', taskId, err.message)
 })
@@ -63,14 +61,6 @@ async function importStationMany({station}) {
   // const lastLogs = await exeSqlServer(`SELECT * FROM [DL_${station.key}] ORDER BY ThoiGian asc`)
  
   let lastLogs = await exeSqlServer(`SELECT * FROM [DL_${station.key}] ORDER BY ThoiGian asc`)
-  
-  
-  // ---------------- Vuot qua 250.000 Records -------------
-  // const limit = 250000
-  // const page = 1
-  // lastLogs = _.slice(lastLogs, limit * (page - 1)), limit * page)
-  // console.log('object', lastLogs.length)
-  // ---------- END -------------
 
   const list = lastLogs.map(item => {
     const receivedAt = item.ThoiGian
@@ -114,12 +104,8 @@ async function checkData (filter = {}) {
 function exeSqlServer(query) {
   return new Promise(async (resolve, reject) => {
     try {
-      // const pool = new sql.ConnectionPool(config.SQLSERVER);
-      // const connect = await pool.connect()
-      // const req = connect.request()
       const req = new sql.Request();
       const { recordset } = await req.query(query)
-      // connect.close()
       resolve(recordset)
     } catch (error) {
       reject(error)
@@ -166,18 +152,9 @@ async function readAndInsertMany(filter = {}) {
     })
   })
 }
-// NT_Chiline 0
-// task_finish station:  NT_HonDa1 0
-// task_finish station:  NT_KCNKhaiQuang 0
-// task_finish station:  NT_NuocThaiThanhPho 0
+
 
 export default async function run() {
-  // readAndInsert({'stationType.key': 'AIR_QUALITY'})
-  // readAndDelete({'stationType.key': 'AIR_QUALITY'})
-  // readAndInsertMany({'stationType.key': {$ne: 'AIR_QUALITY'}}) //khong phai tram  AIR_QUALITY // {'stationType.key': 'AIR_QUALITY'}
-  // readAndInsertMany({'stationType.key': 'WASTE_WATER'}) // doc cac tram khong khi
-   // 0readAndDelete({'stationType.key': 'AIR_QUALITY'})
-  //  moment().zone('+07:00')
    
   const filter = {'key': 'B12HaLong'}
   readAndDelete(filter)
